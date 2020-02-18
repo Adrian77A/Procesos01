@@ -3,7 +3,7 @@
 #include <cmath>
 #include <cstdlib>
 #include <stdio.h>
-#define cel 30        //Elaboro: Adrian Alfredo Aguilar Hernandez   Software 2° 1
+#define cel 30        //Elaboro: Adrian Alfredo Aguilar Hernandez   Software 2 1
 #include <stdio.h>
 #include <locale.h>
 using namespace std;
@@ -157,3 +157,5 @@ cliente Modificar(cliente x){
 	}
 	return x;
 }
+
+//Prueba de commits
